@@ -1,0 +1,4 @@
+Catatan Belajar
+cara ngebuid dokcer file => dokcer build .
+cara ngebuid docker compose => docker-compose build
+memulai project dengan docker-compose => docker-compose run app sh -c "django-admin.py startproject app ."
